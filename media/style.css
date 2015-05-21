@@ -1,0 +1,103 @@
+.header-2{font-weight: bold;}
+.header-2-1{height: 30px;
+			padding-left: 5px;
+			font-size: 16px;}
+.header-2-1-lined{height: 30px;
+			padding-left: 5px;
+			font-size: 16px;
+			border-bottom:2px solid #F1F0F8;
+			border-left:2px solid #F1F0F8;}			
+.header-1-1{height: 30px;}
+.header-1-1-lined{height: 30px;
+				  border-bottom:2px solid #F1F0F8;}
+.header-1{font-size: 12px;
+		  font-weight: bold;}
+.price-calc  {
+    color: #39366a;
+	/*background: url("title-bg.jpg") repeat scroll 0 0 transparent; */
+    color: #39366A;
+    font-size: 22px;
+    height: 31px;
+    margin: 0 auto;
+    text-align: center;
+    width: 940px;
+	font-family: Arial, Tahoma, Helvetica, sans-serif;
+	
+}
+.price-tab-main{width: 940px;
+				height: 100%;
+				margin: 0 auto;
+				font-family: Arial,Tahoma, Helvetica, sans-serif;
+				border-collapse:collapse;}
+.tab1 {width: 470px;
+	  height: 100%;
+	  padding:0 0;
+	  font-size: 12px;
+	  border-collapse:collapse;}
+.tab2 {width: 470px;
+	  font-size: 12px;
+	  border-collapse:collapse;}
+.tab1-1 {width: 60%;}
+.tab1-1-lefted {width: 60%;
+				text-align:left;padding-left: 20px;
+				}
+.tab1-1-lefted-lined{width: 60%;
+				text-align:left;padding-left: 20px;
+				border-bottom:2px solid #F1F0F8;}
+.tab2-1-lefted {width: 70%;
+				text-align:left;padding-left: 5px;
+				}				
+.tab2-1-lefted-lined {width: 70%;
+				text-align:left;padding-left: 5px;
+				border-bottom:2px solid #F1F0F8;
+				border-left: 2px solid #F1F0F8;}			
+.tab1-2 {width: 15%;
+		font-weight: bold;
+		padding-left: 3px;}
+.tab1-2-lined {width: 15%;
+		font-weight: bold;
+		padding-left: 3px;
+		border-bottom:2px solid #F1F0F8;}
+.tab1-3 {width: 10%;
+		font-weight: bold;
+		padding-left: 3px;
+		background-color: #F1F0F8;}
+.tab1-3-lined {width: 10%;
+		font-weight: bold;
+		padding-left: 10px;
+		background-color: #F1F0F8;
+		border-bottom:2px solid #FFFFFF;}
+.tab1-4 {width: 10%;
+		padding-left: 3px;}
+.tab1-4-lined {width: 10%;
+		padding-left: 3px;
+		border-bottom:2px solid #F1F0F8;}
+.tab1-5 {width: 5%;}
+.tab1-5-lined {width: 5%;
+			  border-bottom:2px solid #F1F0F8;}
+.tab2-1 {width: 70%;}
+.tab2-2{width: 10%;
+		font-weight: bold;
+		padding-left: 3px;
+		background-color: #F1F0F8;}
+.tab2-2-lined{width: 10%;
+		font-weight: bold;
+		padding-left: 10px;
+		background-color: #F1F0F8;
+		border-bottom:2px solid #FFFFFF;}
+.tab2-3{width: 10%;
+		padding-left: 3px;}
+.tab2-3-lined{width: 10%;
+		padding-left: 3px;
+		border-bottom:2px solid #F1F0F8;}
+.tab2-4{width: 10%;}
+.tab2-4-lined{width: 10%;
+		border-bottom:2px solid #F1F0F8;}
+.subb1{width: 416px; text-align:center;}
+.subb1-lefted{width: 416px; text-align:center;
+			  border-bottom:2px solid #F1F0F8;}
+.myclass{border: 2px solid #E1DEEF;
+    margin-bottom: 3px;
+	margin-top: 3px;
+    text-align: center;
+    /* width: 53px;*/}
